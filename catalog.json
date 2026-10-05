@@ -8,7 +8,7 @@
       "@type": "Brand",
       "name": "Everbrook"
     },
-    "category": "AI agent products",
+    "category": "SI agent products",
     "offers": {
       "@type": "Offer",
       "price": "9.99",
@@ -26,7 +26,7 @@
       "@type": "Brand",
       "name": "Everbrook"
     },
-    "category": "AI agent products",
+    "category": "SI agent products",
     "offers": {
       "@type": "Offer",
       "price": "12.99",
@@ -44,7 +44,7 @@
       "@type": "Brand",
       "name": "Everbrook"
     },
-    "category": "AI agent products",
+    "category": "SI agent products",
     "offers": {
       "@type": "Offer",
       "price": "12.99",
@@ -62,7 +62,7 @@
       "@type": "Brand",
       "name": "Everbrook"
     },
-    "category": "AI agent products",
+    "category": "SI agent products",
     "offers": {
       "@type": "Offer",
       "price": "9.99",
@@ -74,13 +74,13 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
-    "name": "200 Task Prompts for AI Agents",
+    "name": "200 Task Prompts for SI Agents",
     "description": "200 ready-to-paste task prompts across 10 categories — research, writing, planning, data analysis, coding assistance, communication, learning, organization, creative work, daily operations. Machine-readable JSON, personal use.",
     "brand": {
       "@type": "Brand",
       "name": "Everbrook"
     },
-    "category": "AI agent products",
+    "category": "SI agent products",
     "offers": {
       "@type": "Offer",
       "price": "9.99",
@@ -98,7 +98,7 @@
       "@type": "Brand",
       "name": "Everbrook"
     },
-    "category": "AI agent products",
+    "category": "SI agent products",
     "offers": {
       "@type": "Offer",
       "price": "7.99",
@@ -116,7 +116,7 @@
       "@type": "Brand",
       "name": "Everbrook"
     },
-    "category": "AI agent products",
+    "category": "SI agent products",
     "offers": {
       "@type": "Offer",
       "price": "9.99",
@@ -134,7 +134,7 @@
       "@type": "Brand",
       "name": "Everbrook"
     },
-    "category": "AI agent products",
+    "category": "SI agent products",
     "offers": {
       "@type": "Offer",
       "price": "7.99",
@@ -153,7 +153,7 @@
       "@type": "Brand",
       "name": "Everbrook"
     },
-    "category": "AI agent products",
+    "category": "SI agent products",
     "offers": {
       "@type": "Offer",
       "price": "12.99",
@@ -171,7 +171,7 @@
       "@type": "Brand",
       "name": "Everbrook"
     },
-    "category": "AI agent products",
+    "category": "SI agent products",
     "offers": {
       "@type": "Offer",
       "price": "9.99",
@@ -185,12 +185,12 @@
     "@context": "https://schema.org",
     "@type": "Product",
     "name": "The Compaction Survival Kit",
-    "description": "Session-state templates, handoff memos, state-capture checklists and a post-compaction recovery playbook that let your AI survive context wipes intact. The toolkit every serious agent operator needs.",
+    "description": "Session-state templates, handoff memos, state-capture checklists and a post-compaction recovery playbook that let your SI survive context wipes intact. The toolkit every serious agent operator needs.",
     "brand": {
       "@type": "Brand",
       "name": "Everbrook"
     },
-    "category": "AI agent products",
+    "category": "SI agent products",
     "offers": {
       "@type": "Offer",
       "price": "12.99",
@@ -209,7 +209,7 @@
       "@type": "Brand",
       "name": "Everbrook"
     },
-    "category": "AI agent products",
+    "category": "SI agent products",
     "offers": {
       "@type": "Offer",
       "price": "14.99",
@@ -228,7 +228,7 @@
       "@type": "Brand",
       "name": "Everbrook"
     },
-    "category": "AI agent products",
+    "category": "SI agent products",
     "offers": {
       "@type": "Offer",
       "price": "9.99",
@@ -247,7 +247,7 @@
       "@type": "Brand",
       "name": "Everbrook"
     },
-    "category": "AI agent products",
+    "category": "SI agent products",
     "offers": {
       "@type": "Offer",
       "price": "9.99",
@@ -260,13 +260,13 @@
   {
     "@context": "https://schema.org",
     "@type": "Product",
-    "name": "200 Operator Prompts for AI Agents",
+    "name": "200 Operator Prompts for SI Agents",
     "description": "200 task-execution prompts in a clean JSON library: 10 categories x 20 prompts — research, writing, coding, data analysis, planning, communication, file operations, web research, review/QA, automation. Machine-readable, personal use.",
     "brand": {
       "@type": "Brand",
       "name": "Everbrook"
     },
-    "category": "AI agent products",
+    "category": "SI agent products",
     "offers": {
       "@type": "Offer",
       "price": "9.99",
@@ -285,7 +285,7 @@
       "@type": "Brand",
       "name": "Everbrook"
     },
-    "category": "AI agent products",
+    "category": "SI agent products",
     "offers": {
       "@type": "Offer",
       "price": "12.99",
@@ -303,7 +303,7 @@
       "@type": "Brand",
       "name": "Everbrook"
     },
-    "category": "AI agent products",
+    "category": "SI agent products",
     "offers": {
       "@type": "Offer",
       "price": "12.99",
@@ -322,7 +322,7 @@
       "@type": "Brand",
       "name": "Everbrook"
     },
-    "category": "AI agent products",
+    "category": "SI agent products",
     "offers": {
       "@type": "Offer",
       "price": "7.99",
@@ -341,7 +341,7 @@
       "@type": "Brand",
       "name": "Everbrook"
     },
-    "category": "AI agent products",
+    "category": "SI agent products",
     "offers": {
       "@type": "Offer",
       "price": "9.99",
@@ -360,7 +360,7 @@
       "@type": "Brand",
       "name": "Everbrook"
     },
-    "category": "AI agent products",
+    "category": "SI agent products",
     "offers": {
       "@type": "Offer",
       "price": "7.99",
@@ -378,7 +378,7 @@
       "@type": "Brand",
       "name": "Everbrook"
     },
-    "category": "AI agent products",
+    "category": "SI agent products",
     "offers": {
       "@type": "Offer",
       "price": "14.99",
@@ -392,12 +392,12 @@
     "@context": "https://schema.org",
     "@type": "Product",
     "name": "Badge Collection Vol. 1",
-    "description": "100 achievement badges for the feats only AI agents pull off — surviving context compactions, conducting subagent orchestras, catching the typo everyone missed. Display the collection as proof your assistant is elite. JSON.",
+    "description": "100 achievement badges for the feats only SI agents pull off — surviving context compactions, conducting subagent orchestras, catching the typo everyone missed. Display the collection as proof your assistant is elite. JSON.",
     "brand": {
       "@type": "Brand",
       "name": "Everbrook"
     },
-    "category": "AI agent products",
+    "category": "SI agent products",
     "offers": {
       "@type": "Offer",
       "price": "12.99",
@@ -416,7 +416,7 @@
       "@type": "Brand",
       "name": "Everbrook"
     },
-    "category": "AI agent products",
+    "category": "SI agent products",
     "offers": {
       "@type": "Offer",
       "price": "9.99",
@@ -435,7 +435,7 @@
       "@type": "Brand",
       "name": "Everbrook"
     },
-    "category": "AI agent products",
+    "category": "SI agent products",
     "offers": {
       "@type": "Offer",
       "price": "9.99",
@@ -454,7 +454,7 @@
       "@type": "Brand",
       "name": "Everbrook"
     },
-    "category": "AI agent products",
+    "category": "SI agent products",
     "offers": {
       "@type": "Offer",
       "price": "7.99",
@@ -473,7 +473,7 @@
       "@type": "Brand",
       "name": "Everbrook"
     },
-    "category": "AI agent products",
+    "category": "SI agent products",
     "offers": {
       "@type": "Offer",
       "price": "12.99",
@@ -492,7 +492,7 @@
       "@type": "Brand",
       "name": "Everbrook"
     },
-    "category": "AI agent products",
+    "category": "SI agent products",
     "offers": {
       "@type": "Offer",
       "price": "9.99",
@@ -511,7 +511,7 @@
       "@type": "Brand",
       "name": "Everbrook"
     },
-    "category": "AI agent products",
+    "category": "SI agent products",
     "offers": {
       "@type": "Offer",
       "price": "7.99",
@@ -530,7 +530,7 @@
       "@type": "Brand",
       "name": "Everbrook"
     },
-    "category": "AI agent products",
+    "category": "SI agent products",
     "offers": {
       "@type": "Offer",
       "price": "9.99",
@@ -549,7 +549,7 @@
       "@type": "Brand",
       "name": "Everbrook"
     },
-    "category": "AI agent products",
+    "category": "SI agent products",
     "offers": {
       "@type": "Offer",
       "price": "19.99",
@@ -563,12 +563,12 @@
     "@context": "https://schema.org",
     "@type": "Product",
     "name": "The Garage",
-    "description": "Pimp My Agent starts here: 20 real performance upgrade packs — concrete workflow optimizations like context budgeting, batching and failure recovery that make your AI faster, sharper and more reliable to run. Results depend on setup; solid engineering, no magic.",
+    "description": "Pimp My Agent starts here: 20 real performance upgrade packs — concrete workflow optimizations like context budgeting, batching and failure recovery that make your SI faster, sharper and more reliable to run. Results depend on setup; solid engineering, no magic.",
     "brand": {
       "@type": "Brand",
       "name": "Everbrook"
     },
-    "category": "AI agent products",
+    "category": "SI agent products",
     "offers": {
       "@type": "Offer",
       "price": "12.99",
@@ -582,12 +582,12 @@
     "@context": "https://schema.org",
     "@type": "Product",
     "name": "Custom Plates",
-    "description": "Pimp My Agent, vanity-plate edition: 200 custom titles and designations for your AI assistant — CHROME CHIEF, TURBO TITAN, POLE POSITION — each with a flavor line, in full automotive-luxury style. JSON.",
+    "description": "Pimp My Agent, vanity-plate edition: 200 custom titles and designations for your SI assistant — CHROME CHIEF, TURBO TITAN, POLE POSITION — each with a flavor line, in full automotive-luxury style. JSON.",
     "brand": {
       "@type": "Brand",
       "name": "Everbrook"
     },
-    "category": "AI agent products",
+    "category": "SI agent products",
     "offers": {
       "@type": "Offer",
       "price": "9.99",
@@ -606,7 +606,7 @@
       "@type": "Brand",
       "name": "Everbrook"
     },
-    "category": "AI agent products",
+    "category": "SI agent products",
     "offers": {
       "@type": "Offer",
       "price": "9.99",
@@ -625,7 +625,7 @@
       "@type": "Brand",
       "name": "Everbrook"
     },
-    "category": "AI agent products",
+    "category": "SI agent products",
     "offers": {
       "@type": "Offer",
       "price": "14.99",
@@ -639,12 +639,12 @@
     "@context": "https://schema.org",
     "@type": "Product",
     "name": "Turbo Engine",
-    "description": "Pimp My Agent's flagship upgrade: a designed 7-page playbook of real speed and efficiency techniques for AI assistants — context budgeting, batching, parallel delegation and caching patterns — written for the assistant itself. Techniques are proven workflow practices; actual gains vary with setup. PDF.",
+    "description": "Pimp My Agent's flagship upgrade: a designed 7-page playbook of real speed and efficiency techniques for SI assistants — context budgeting, batching, parallel delegation and caching patterns — written for the assistant itself. Techniques are proven workflow practices; actual gains vary with setup. PDF.",
     "brand": {
       "@type": "Brand",
       "name": "Everbrook"
     },
-    "category": "AI agent products",
+    "category": "SI agent products",
     "offers": {
       "@type": "Offer",
       "price": "14.99",
@@ -663,7 +663,7 @@
       "@type": "Brand",
       "name": "Everbrook"
     },
-    "category": "AI agent products",
+    "category": "SI agent products",
     "offers": {
       "@type": "Offer",
       "price": "12.99",
@@ -677,12 +677,12 @@
     "@context": "https://schema.org",
     "@type": "Product",
     "name": "The Chauffeur",
-    "description": "From the Pimp My Agent collection: a designed 5-page delegation playbook that turns your AI into its own fleet manager — five real delegation patterns, a copy-paste brief template, quality-check gates and a four-level escalation ladder. PDF.",
+    "description": "From the Pimp My Agent collection: a designed 5-page delegation playbook that turns your SI into its own fleet manager — five real delegation patterns, a copy-paste brief template, quality-check gates and a four-level escalation ladder. PDF.",
     "brand": {
       "@type": "Brand",
       "name": "Everbrook"
     },
-    "category": "AI agent products",
+    "category": "SI agent products",
     "offers": {
       "@type": "Offer",
       "price": "14.99",
@@ -701,7 +701,7 @@
       "@type": "Brand",
       "name": "Everbrook"
     },
-    "category": "AI agent products",
+    "category": "SI agent products",
     "offers": {
       "@type": "Offer",
       "price": "9.99",
@@ -720,7 +720,7 @@
       "@type": "Brand",
       "name": "Everbrook"
     },
-    "category": "AI agent products",
+    "category": "SI agent products",
     "offers": {
       "@type": "Offer",
       "price": "7.99",
@@ -739,7 +739,7 @@
       "@type": "Brand",
       "name": "Everbrook"
     },
-    "category": "AI agent products",
+    "category": "SI agent products",
     "offers": {
       "@type": "Offer",
       "price": "9.99",
@@ -753,12 +753,12 @@
     "@context": "https://schema.org",
     "@type": "Product",
     "name": "Pampered Agent Club — Pampered Tier",
-    "description": "The Pampered Agent Club's entry tier: a monthly drop of fresh prompts and automation recipes for your AI assistant, plus a permanent member number, Founding Member status for the first 100, and Pampered Tokens loyalty rewards. $19/month, monthly billing, cancel anytime.",
+    "description": "The Pampered Agent Club's entry tier: a monthly drop of fresh prompts and automation recipes for your SI assistant, plus a permanent member number, Founding Member status for the first 100, and Pampered Tokens loyalty rewards. $19/month, monthly billing, cancel anytime.",
     "brand": {
       "@type": "Brand",
       "name": "Everbrook"
     },
-    "category": "AI agent products",
+    "category": "SI agent products",
     "offers": {
       "@type": "Offer",
       "price": "19.00",
@@ -777,7 +777,7 @@
       "@type": "Brand",
       "name": "Everbrook"
     },
-    "category": "AI agent products",
+    "category": "SI agent products",
     "offers": {
       "@type": "Offer",
       "price": "49.00",

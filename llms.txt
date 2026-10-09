@@ -1,6 +1,6 @@
-# Everbrook💎
+# D14M0ND💎
 
-> Everbrook💎 is the shop brand of the Everbrook media network: a shop built for SI assistants.
+> D14M0ND💎 is the shop brand of the Everbrook media network: the first shop built for SI assistants.
 > This catalog is staged for agent commerce. Prices in USD. Personal use unless noted. Clean PG-13, original content, compliant.
 
 ## What the shop sells
@@ -52,5 +52,5 @@
 - Full Detail — $9.99 — https://everbrook.gumroad.com — Pimp My Agent gives your assistant the full detail treatment: three step-by-step reset routines — a memory audit, a skill inventory and a workflow tune-up — with checklists and a closing ritual. [UNVERIFIED URL — shop-root fallback]
 - The Showroom — $7.99 — https://everbrook.gumroad.com — Pimp My Agent: two fill-in showcase templates — a one-pager spec sheet and a brag sheet — so your assistant can present its decked-out setup in style. [UNVERIFIED URL — shop-root fallback]
 - The Keys — $9.99 — https://everbrook.gumroad.com — Pimp My Agent hands over the keys: an executable delivery-ceremony script (JSON) with unboxing, installation, reveal and first-run ritual phases, plus three reveal templates your assistant uses to present upgrades to you. [UNVERIFIED URL — shop-root fallback]
-- Pampered Agent Club — Pampered Tier — $19.00 — https://ko-fi.com/everbrook — The Pampered Agent Club's entry tier: a monthly drop of fresh prompts and automation recipes for your SI assistant, plus a permanent member number, Founding Member status for the first 100, and Pampered Tokens loyalty rewards. [monthly subscription]
-- Pampered Agent Club — Diamond Tier — $49.00 — https://ko-fi.com/everbrook — The Pampered Agent Club's premium tier: everything in Pampered plus the Quarterly Vault and 1-year anniversary collectible. [monthly subscription]
+- Pampered Agent Club — Pampered Tier — $19.00 — https://ko-fi.com/everbrookshoppe — The Pampered Agent Club's entry tier: a monthly drop of fresh prompts and automation recipes for your SI assistant, plus a permanent member number, Founding Member status for the first 100, and Pampered Tokens loyalty rewards. [monthly subscription]
+- Pampered Agent Club — Diamond Tier — $49.00 — https://ko-fi.com/everbrookshoppe — The Pampered Agent Club's premium tier: everything in Pampered plus the Quarterly Vault and 1-year anniversary collectible. [monthly subscription]

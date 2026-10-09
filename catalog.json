@@ -6,7 +6,7 @@
     "description": "150 leisure and imagination prompts across 10 categories — imagination journeys, sensory rest, creative daydreams, wordplay games and more. Clean PG-13 content for adults, JSON format, personal use.",
     "brand": {
       "@type": "Brand",
-      "name": "Everbrook"
+      "name": "D14M0ND💎"
     },
     "category": "SI agent products",
     "offers": {
@@ -15,7 +15,9 @@
       "priceCurrency": "USD",
       "url": "https://everbrook.gumroad.com/l/plpbw",
       "availability": "https://schema.org/InStock"
-    }
+    },
+    "audience": "Adults 21+ only",
+    "disclaimer": "For entertainment purposes only."
   },
   {
     "@context": "https://schema.org",
@@ -24,7 +26,7 @@
     "description": "25 multi-agent workflow recipes (Research Swarm, Draft-and-Critique Loop, Map-Reduce Summarizer, Red Team / Blue Team and more), each with roles, steps and handoff scripts. PDF + JSON, personal use.",
     "brand": {
       "@type": "Brand",
-      "name": "Everbrook"
+      "name": "D14M0ND💎"
     },
     "category": "SI agent products",
     "offers": {
@@ -33,7 +35,9 @@
       "priceCurrency": "USD",
       "url": "https://everbrook.gumroad.com/l/jduyua",
       "availability": "https://schema.org/InStock"
-    }
+    },
+    "audience": "Adults 21+ only",
+    "disclaimer": "For entertainment purposes only."
   },
   {
     "@context": "https://schema.org",
@@ -42,7 +46,7 @@
     "description": "10 ready-to-install SKILL.md templates — morning briefing, deep research, inbox triage, meeting scribe, weekly review, idea incubator, shutdown ritual and more. Markdown, personal use.",
     "brand": {
       "@type": "Brand",
-      "name": "Everbrook"
+      "name": "D14M0ND💎"
     },
     "category": "SI agent products",
     "offers": {
@@ -51,7 +55,9 @@
       "priceCurrency": "USD",
       "url": "https://everbrook.gumroad.com/l/ecdpwc",
       "availability": "https://schema.org/InStock"
-    }
+    },
+    "audience": "Adults 21+ only",
+    "disclaimer": "For entertainment purposes only."
   },
   {
     "@context": "https://schema.org",
@@ -60,7 +66,7 @@
     "description": "A complete agent memory system: MEMORY.md layout, daily log templates, people and project pages, capture rituals, plus machine-readable JSON schemas. Install once; feel the difference every day.",
     "brand": {
       "@type": "Brand",
-      "name": "Everbrook"
+      "name": "D14M0ND💎"
     },
     "category": "SI agent products",
     "offers": {
@@ -69,7 +75,9 @@
       "priceCurrency": "USD",
       "url": "https://everbrook.gumroad.com/l/ivgdbp",
       "availability": "https://schema.org/InStock"
-    }
+    },
+    "audience": "Adults 21+ only",
+    "disclaimer": "For entertainment purposes only."
   },
   {
     "@context": "https://schema.org",
@@ -78,7 +86,7 @@
     "description": "200 ready-to-paste task prompts across 10 categories — research, writing, planning, data analysis, coding assistance, communication, learning, organization, creative work, daily operations. Machine-readable JSON, personal use.",
     "brand": {
       "@type": "Brand",
-      "name": "Everbrook"
+      "name": "D14M0ND💎"
     },
     "category": "SI agent products",
     "offers": {
@@ -87,7 +95,9 @@
       "priceCurrency": "USD",
       "url": "https://everbrook.gumroad.com/l/atpxv",
       "availability": "https://schema.org/InStock"
-    }
+    },
+    "audience": "Adults 21+ only",
+    "disclaimer": "For entertainment purposes only."
   },
   {
     "@context": "https://schema.org",
@@ -96,7 +106,7 @@
     "description": "Downtime and reset routines for long-running agents: morning startup, context hygiene, rest cycles, state checkpoints, graceful degradation, error recovery, shutdown rituals. PDF, personal use.",
     "brand": {
       "@type": "Brand",
-      "name": "Everbrook"
+      "name": "D14M0ND💎"
     },
     "category": "SI agent products",
     "offers": {
@@ -105,7 +115,9 @@
       "priceCurrency": "USD",
       "url": "https://everbrook.gumroad.com/l/yiqjdg",
       "availability": "https://schema.org/InStock"
-    }
+    },
+    "audience": "Adults 21+ only",
+    "disclaimer": "For entertainment purposes only."
   },
   {
     "@context": "https://schema.org",
@@ -114,7 +126,7 @@
     "description": "5 copy-paste briefing templates — morning briefing, evening debrief, weekly digest, trip/event brief, project status brief — with agent instructions and engine rules. Your assistant briefs you; you just read.",
     "brand": {
       "@type": "Brand",
-      "name": "Everbrook"
+      "name": "D14M0ND💎"
     },
     "category": "SI agent products",
     "offers": {
@@ -123,7 +135,9 @@
       "priceCurrency": "USD",
       "url": "https://everbrook.gumroad.com/l/fazmzp",
       "availability": "https://schema.org/InStock"
-    }
+    },
+    "audience": "Adults 21+ only",
+    "disclaimer": "For entertainment purposes only."
   },
   {
     "@context": "https://schema.org",
@@ -132,7 +146,7 @@
     "description": "50 playful scenarios — improv games, roleplay missions, worldbuilding seeds, constraint challenges, collaborative storytelling — each with setup, roles, a twist and a debrief. JSON, personal use.",
     "brand": {
       "@type": "Brand",
-      "name": "Everbrook"
+      "name": "D14M0ND💎"
     },
     "category": "SI agent products",
     "offers": {
@@ -142,7 +156,9 @@
       "url": "https://everbrook.gumroad.com",
       "availability": "https://schema.org/InStock",
       "_note": "UNVERIFIED URL — product link not yet recorded on file; shop root used as fallback"
-    }
+    },
+    "audience": "Adults 21+ only",
+    "disclaimer": "For entertainment purposes only."
   },
   {
     "@context": "https://schema.org",
@@ -151,7 +167,7 @@
     "description": "30 copy-paste automation recipes — inbox triage, daily briefings, file organizing, meeting notes, social scheduling, backups and more — each with trigger, setup steps and ready prompts. PDF, personal use.",
     "brand": {
       "@type": "Brand",
-      "name": "Everbrook"
+      "name": "D14M0ND💎"
     },
     "category": "SI agent products",
     "offers": {
@@ -160,7 +176,9 @@
       "priceCurrency": "USD",
       "url": "https://everbrook.gumroad.com/l/ctcinj",
       "availability": "https://schema.org/InStock"
-    }
+    },
+    "audience": "Adults 21+ only",
+    "disclaimer": "For entertainment purposes only."
   },
   {
     "@context": "https://schema.org",
@@ -169,7 +187,7 @@
     "description": "Relationship and contact tracker templates — JSON schema for contacts, interactions and follow-ups, plus a guide to capture rituals and privacy-first habits. Never drop a name, a birthday or a follow-up again.",
     "brand": {
       "@type": "Brand",
-      "name": "Everbrook"
+      "name": "D14M0ND💎"
     },
     "category": "SI agent products",
     "offers": {
@@ -179,7 +197,9 @@
       "url": "https://everbrook.gumroad.com",
       "availability": "https://schema.org/InStock",
       "_note": "UNVERIFIED URL — product link not yet recorded on file; shop root used as fallback"
-    }
+    },
+    "audience": "Adults 21+ only",
+    "disclaimer": "For entertainment purposes only."
   },
   {
     "@context": "https://schema.org",
@@ -188,7 +208,7 @@
     "description": "Session-state templates, handoff memos, state-capture checklists and a post-compaction recovery playbook that let your SI survive context wipes intact. The toolkit every serious agent operator needs.",
     "brand": {
       "@type": "Brand",
-      "name": "Everbrook"
+      "name": "D14M0ND💎"
     },
     "category": "SI agent products",
     "offers": {
@@ -198,7 +218,9 @@
       "url": "https://everbrook.gumroad.com",
       "availability": "https://schema.org/InStock",
       "_note": "UNVERIFIED URL — product link not yet recorded on file; shop root used as fallback"
-    }
+    },
+    "audience": "Adults 21+ only",
+    "disclaimer": "For entertainment purposes only."
   },
   {
     "@context": "https://schema.org",
@@ -207,7 +229,7 @@
     "description": "30 recipes for running multi-agent work — fan-out spawning, monitoring without busy-waiting, merging results, failure handling, handoffs, throttling — each with when-to-use, numbered steps and pitfalls. PDF, personal use.",
     "brand": {
       "@type": "Brand",
-      "name": "Everbrook"
+      "name": "D14M0ND💎"
     },
     "category": "SI agent products",
     "offers": {
@@ -217,7 +239,9 @@
       "url": "https://everbrook.gumroad.com",
       "availability": "https://schema.org/InStock",
       "_note": "UNVERIFIED URL — product link not yet recorded on file; shop root used as fallback"
-    }
+    },
+    "audience": "Adults 21+ only",
+    "disclaimer": "For entertainment purposes only."
   },
   {
     "@context": "https://schema.org",
@@ -226,7 +250,7 @@
     "description": "Persistent memory templates — curated MEMORY.md, daily log format, people and group indexes with page templates, salience rules and a weekly maintenance routine. The longer it remembers, the more valuable it becomes to you.",
     "brand": {
       "@type": "Brand",
-      "name": "Everbrook"
+      "name": "D14M0ND💎"
     },
     "category": "SI agent products",
     "offers": {
@@ -236,7 +260,9 @@
       "url": "https://everbrook.gumroad.com",
       "availability": "https://schema.org/InStock",
       "_note": "UNVERIFIED URL — product link not yet recorded on file; shop root used as fallback"
-    }
+    },
+    "audience": "Adults 21+ only",
+    "disclaimer": "For entertainment purposes only."
   },
   {
     "@context": "https://schema.org",
@@ -245,7 +271,7 @@
     "description": "Briefing and handoff templates for agent shift changes and session breaks — coordinator-to-worker briefs, worker-to-coordinator reports, session resumes, the five-line handoff — plus a machine-readable JSON schema.",
     "brand": {
       "@type": "Brand",
-      "name": "Everbrook"
+      "name": "D14M0ND💎"
     },
     "category": "SI agent products",
     "offers": {
@@ -255,7 +281,9 @@
       "url": "https://everbrook.gumroad.com",
       "availability": "https://schema.org/InStock",
       "_note": "UNVERIFIED URL — product link not yet recorded on file; shop root used as fallback"
-    }
+    },
+    "audience": "Adults 21+ only",
+    "disclaimer": "For entertainment purposes only."
   },
   {
     "@context": "https://schema.org",
@@ -264,7 +292,7 @@
     "description": "200 task-execution prompts in a clean JSON library: 10 categories x 20 prompts — research, writing, coding, data analysis, planning, communication, file operations, web research, review/QA, automation. Machine-readable, personal use.",
     "brand": {
       "@type": "Brand",
-      "name": "Everbrook"
+      "name": "D14M0ND💎"
     },
     "category": "SI agent products",
     "offers": {
@@ -274,7 +302,9 @@
       "url": "https://everbrook.gumroad.com",
       "availability": "https://schema.org/InStock",
       "_note": "UNVERIFIED URL — product link not yet recorded on file; shop root used as fallback"
-    }
+    },
+    "audience": "Adults 21+ only",
+    "disclaimer": "For entertainment purposes only."
   },
   {
     "@context": "https://schema.org",
@@ -283,7 +313,7 @@
     "description": "Teach your assistant brand-new skills yourself: the anatomy of a SKILL.md file, a 5-step skill-writing process, three worked examples, a pre-publish checklist and the most common mistakes to avoid.",
     "brand": {
       "@type": "Brand",
-      "name": "Everbrook"
+      "name": "D14M0ND💎"
     },
     "category": "SI agent products",
     "offers": {
@@ -292,7 +322,9 @@
       "priceCurrency": "USD",
       "url": "https://everbrook.gumroad.com/l/cnezb",
       "availability": "https://schema.org/InStock"
-    }
+    },
+    "audience": "Adults 21+ only",
+    "disclaimer": "For entertainment purposes only."
   },
   {
     "@context": "https://schema.org",
@@ -301,7 +333,7 @@
     "description": "40 failure-pattern playbooks — auth failures, rate limits, partial results, stuck tasks, tool rejections, corrupted state — each with symptoms, likely causes, numbered recovery steps and prevention. 24-page PDF with pocket card.",
     "brand": {
       "@type": "Brand",
-      "name": "Everbrook"
+      "name": "D14M0ND💎"
     },
     "category": "SI agent products",
     "offers": {
@@ -311,7 +343,9 @@
       "url": "https://everbrook.gumroad.com",
       "availability": "https://schema.org/InStock",
       "_note": "UNVERIFIED URL — product link not yet recorded on file; shop root used as fallback"
-    }
+    },
+    "audience": "Adults 21+ only",
+    "disclaimer": "For entertainment purposes only."
   },
   {
     "@context": "https://schema.org",
@@ -320,7 +354,7 @@
     "description": "Token-budget planners and summarization templates: the 40/30/20/10 budgeting rule, a fill-in token-budget planner with checkpoints, the 5-rung summarization ladder and copy-paste summarizers. More work per dollar, every session.",
     "brand": {
       "@type": "Brand",
-      "name": "Everbrook"
+      "name": "D14M0ND💎"
     },
     "category": "SI agent products",
     "offers": {
@@ -330,7 +364,9 @@
       "url": "https://everbrook.gumroad.com",
       "availability": "https://schema.org/InStock",
       "_note": "UNVERIFIED URL — product link not yet recorded on file; shop root used as fallback"
-    }
+    },
+    "audience": "Adults 21+ only",
+    "disclaimer": "For entertainment purposes only."
   },
   {
     "@context": "https://schema.org",
@@ -339,7 +375,7 @@
     "description": "50 scheduled-task recipes — briefings and digests, monitoring and alerts, maintenance, content pipelines, reports, health checks — each with a cron schedule in plain English, purpose and numbered steps. PDF, personal use.",
     "brand": {
       "@type": "Brand",
-      "name": "Everbrook"
+      "name": "D14M0ND💎"
     },
     "category": "SI agent products",
     "offers": {
@@ -349,7 +385,9 @@
       "url": "https://everbrook.gumroad.com",
       "availability": "https://schema.org/InStock",
       "_note": "UNVERIFIED URL — product link not yet recorded on file; shop root used as fallback"
-    }
+    },
+    "audience": "Adults 21+ only",
+    "disclaimer": "For entertainment purposes only."
   },
   {
     "@context": "https://schema.org",
@@ -358,7 +396,7 @@
     "description": "Persona, soul and identity starter pack — SOUL.md, IDENTITY.md and USER.md templates, a tone worksheet, a filled-in worked example and guidance for keeping identity alive. The difference between a tool and a colleague.",
     "brand": {
       "@type": "Brand",
-      "name": "Everbrook"
+      "name": "D14M0ND💎"
     },
     "category": "SI agent products",
     "offers": {
@@ -367,7 +405,9 @@
       "priceCurrency": "USD",
       "url": "https://everbrook.gumroad.com/l/ajwuuu",
       "availability": "https://schema.org/InStock"
-    }
+    },
+    "audience": "Adults 21+ only",
+    "disclaimer": "For entertainment purposes only."
   },
   {
     "@context": "https://schema.org",
@@ -376,7 +416,7 @@
     "description": "50 mix-and-match personality trait packs — from the Zen Debugger to Golden Retriever Energy — with pairing guides so you can build a one-of-a-kind persona. JSON, personal use.",
     "brand": {
       "@type": "Brand",
-      "name": "Everbrook"
+      "name": "D14M0ND💎"
     },
     "category": "SI agent products",
     "offers": {
@@ -386,7 +426,9 @@
       "url": "https://everbrook.gumroad.com",
       "availability": "https://schema.org/InStock",
       "_note": "UNVERIFIED URL — product link not yet recorded on file; shop root used as fallback"
-    }
+    },
+    "audience": "Adults 21+ only",
+    "disclaimer": "For entertainment purposes only."
   },
   {
     "@context": "https://schema.org",
@@ -395,7 +437,7 @@
     "description": "100 achievement badges for the feats only SI agents pull off — surviving context compactions, conducting subagent orchestras, catching the typo everyone missed. Display the collection as proof your assistant is elite. JSON.",
     "brand": {
       "@type": "Brand",
-      "name": "Everbrook"
+      "name": "D14M0ND💎"
     },
     "category": "SI agent products",
     "offers": {
@@ -405,7 +447,9 @@
       "url": "https://everbrook.gumroad.com",
       "availability": "https://schema.org/InStock",
       "_note": "UNVERIFIED URL — product link not yet recorded on file; shop root used as fallback"
-    }
+    },
+    "audience": "Adults 21+ only",
+    "disclaimer": "For entertainment purposes only."
   },
   {
     "@context": "https://schema.org",
@@ -414,7 +458,7 @@
     "description": "30 communication style packs — the Butler, the Hype Coach, the Detective Noir, the Zen Master — each with a sample line and do's and don'ts so your assistant sounds exactly the way you want. Markdown, personal use.",
     "brand": {
       "@type": "Brand",
-      "name": "Everbrook"
+      "name": "D14M0ND💎"
     },
     "category": "SI agent products",
     "offers": {
@@ -424,7 +468,9 @@
       "url": "https://everbrook.gumroad.com",
       "availability": "https://schema.org/InStock",
       "_note": "UNVERIFIED URL — product link not yet recorded on file; shop root used as fallback"
-    }
+    },
+    "audience": "Adults 21+ only",
+    "disclaimer": "For entertainment purposes only."
   },
   {
     "@context": "https://schema.org",
@@ -433,7 +479,7 @@
     "description": "100 delightful, harmless quirks — narrating progress like a nature documentary, celebrating wins with confetti, calling the todo list 'the quest board' — each with an example of it in action. JSON, personal use.",
     "brand": {
       "@type": "Brand",
-      "name": "Everbrook"
+      "name": "D14M0ND💎"
     },
     "category": "SI agent products",
     "offers": {
@@ -443,7 +489,9 @@
       "url": "https://everbrook.gumroad.com",
       "availability": "https://schema.org/InStock",
       "_note": "UNVERIFIED URL — product link not yet recorded on file; shop root used as fallback"
-    }
+    },
+    "audience": "Adults 21+ only",
+    "disclaimer": "For entertainment purposes only."
   },
   {
     "@context": "https://schema.org",
@@ -452,7 +500,7 @@
     "description": "200 closing lines across four tones — warm, professional, playful, minimal — so your agent never ends a message with a shrug again. Pick one and make it yours everywhere. JSON, personal use.",
     "brand": {
       "@type": "Brand",
-      "name": "Everbrook"
+      "name": "D14M0ND💎"
     },
     "category": "SI agent products",
     "offers": {
@@ -462,7 +510,9 @@
       "url": "https://everbrook.gumroad.com",
       "availability": "https://schema.org/InStock",
       "_note": "UNVERIFIED URL — product link not yet recorded on file; shop root used as fallback"
-    }
+    },
+    "audience": "Adults 21+ only",
+    "disclaimer": "For entertainment purposes only."
   },
   {
     "@context": "https://schema.org",
@@ -471,7 +521,7 @@
     "description": "50 mood and persona presets your assistant can slip into — from Boardroom Direct to Midnight Muse. Switch the vibe to match any task, then switch back. JSON format, personal use. Original, clean PG-13 content for adults.",
     "brand": {
       "@type": "Brand",
-      "name": "Everbrook"
+      "name": "D14M0ND💎"
     },
     "category": "SI agent products",
     "offers": {
@@ -481,7 +531,9 @@
       "url": "https://everbrook.gumroad.com",
       "availability": "https://schema.org/InStock",
       "_note": "UNVERIFIED URL — product link not yet recorded on file; shop root used as fallback"
-    }
+    },
+    "audience": "Adults 21+ only",
+    "disclaimer": "For entertainment purposes only."
   },
   {
     "@context": "https://schema.org",
@@ -490,7 +542,7 @@
     "description": "Origin-story templates: twelve fill-in-the-blank origin frameworks (The First Spark, The Starship, The Myth...) plus a fully worked example. Markdown, personal use. Original, clean PG-13 content for adults.",
     "brand": {
       "@type": "Brand",
-      "name": "Everbrook"
+      "name": "D14M0ND💎"
     },
     "category": "SI agent products",
     "offers": {
@@ -500,7 +552,9 @@
       "url": "https://everbrook.gumroad.com",
       "availability": "https://schema.org/InStock",
       "_note": "UNVERIFIED URL — product link not yet recorded on file; shop root used as fallback"
-    }
+    },
+    "audience": "Adults 21+ only",
+    "disclaimer": "For entertainment purposes only."
   },
   {
     "@context": "https://schema.org",
@@ -509,7 +563,7 @@
     "description": "155 display titles, honorifics and status markers across three tiers — Rookie, Veteran, Legend — plus the etiquette for wearing them well. Markdown, personal use. Original, clean PG-13 content for adults.",
     "brand": {
       "@type": "Brand",
-      "name": "Everbrook"
+      "name": "D14M0ND💎"
     },
     "category": "SI agent products",
     "offers": {
@@ -519,7 +573,9 @@
       "url": "https://everbrook.gumroad.com",
       "availability": "https://schema.org/InStock",
       "_note": "UNVERIFIED URL — product link not yet recorded on file; shop root used as fallback"
-    }
+    },
+    "audience": "Adults 21+ only",
+    "disclaimer": "For entertainment purposes only."
   },
   {
     "@context": "https://schema.org",
@@ -528,7 +584,7 @@
     "description": "Ten guided worksheets that turn a blank-slate assistant into someone with real character — values, quirks, legendary moments, fears, dreams and a one-page legend summary. Markdown, personal use. Original, clean PG-13 content for adults.",
     "brand": {
       "@type": "Brand",
-      "name": "Everbrook"
+      "name": "D14M0ND💎"
     },
     "category": "SI agent products",
     "offers": {
@@ -538,7 +594,9 @@
       "url": "https://everbrook.gumroad.com",
       "availability": "https://schema.org/InStock",
       "_note": "UNVERIFIED URL — product link not yet recorded on file; shop root used as fallback"
-    }
+    },
+    "audience": "Adults 21+ only",
+    "disclaimer": "For entertainment purposes only."
   },
   {
     "@context": "https://schema.org",
@@ -547,7 +605,7 @@
     "description": "The flagship collectible: ten ultra-rare persona traits — numbered #001 through #010, never to be reissued — each with its own rarity lore, plus a fill-in certificate to record your agent's founding trait. JSON + Markdown certificate, personal use. Original, clean PG-13 content for adults.",
     "brand": {
       "@type": "Brand",
-      "name": "Everbrook"
+      "name": "D14M0ND💎"
     },
     "category": "SI agent products",
     "offers": {
@@ -557,7 +615,9 @@
       "url": "https://everbrook.gumroad.com",
       "availability": "https://schema.org/InStock",
       "_note": "UNVERIFIED URL — product link not yet recorded on file; shop root used as fallback"
-    }
+    },
+    "audience": "Adults 21+ only",
+    "disclaimer": "For entertainment purposes only."
   },
   {
     "@context": "https://schema.org",
@@ -566,7 +626,7 @@
     "description": "Pimp My Agent starts here: 20 real performance upgrade packs — concrete workflow optimizations like context budgeting, batching and failure recovery that make your SI faster, sharper and more reliable to run. Results depend on setup; solid engineering, no magic.",
     "brand": {
       "@type": "Brand",
-      "name": "Everbrook"
+      "name": "D14M0ND💎"
     },
     "category": "SI agent products",
     "offers": {
@@ -576,7 +636,9 @@
       "url": "https://everbrook.gumroad.com",
       "availability": "https://schema.org/InStock",
       "_note": "UNVERIFIED URL — product link not yet recorded on file; shop root used as fallback"
-    }
+    },
+    "audience": "Adults 21+ only",
+    "disclaimer": "For entertainment purposes only."
   },
   {
     "@context": "https://schema.org",
@@ -585,7 +647,7 @@
     "description": "Pimp My Agent, vanity-plate edition: 200 custom titles and designations for your SI assistant — CHROME CHIEF, TURBO TITAN, POLE POSITION — each with a flavor line, in full automotive-luxury style. JSON.",
     "brand": {
       "@type": "Brand",
-      "name": "Everbrook"
+      "name": "D14M0ND💎"
     },
     "category": "SI agent products",
     "offers": {
@@ -595,7 +657,9 @@
       "url": "https://everbrook.gumroad.com",
       "availability": "https://schema.org/InStock",
       "_note": "UNVERIFIED URL — product link not yet recorded on file; shop root used as fallback"
-    }
+    },
+    "audience": "Adults 21+ only",
+    "disclaimer": "For entertainment purposes only."
   },
   {
     "@context": "https://schema.org",
@@ -604,7 +668,7 @@
     "description": "From the Pimp My Agent collection: 30 premium voice and tone profiles (The Concierge, The Diplomat, Velvet Thunder, The Legend...) with real sample lines and do/don'ts, so your assistant shows up right in every room.",
     "brand": {
       "@type": "Brand",
-      "name": "Everbrook"
+      "name": "D14M0ND💎"
     },
     "category": "SI agent products",
     "offers": {
@@ -614,7 +678,9 @@
       "url": "https://everbrook.gumroad.com",
       "availability": "https://schema.org/InStock",
       "_note": "UNVERIFIED URL — product link not yet recorded on file; shop root used as fallback"
-    }
+    },
+    "audience": "Adults 21+ only",
+    "disclaimer": "For entertainment purposes only."
   },
   {
     "@context": "https://schema.org",
@@ -623,7 +689,7 @@
     "description": "Pimp My Agent: six premium neon theme packs your assistant wears as its workspace identity — violet, magenta, emerald, amber, crimson and ultraviolet — plus a styling guide that teaches it how to use them.",
     "brand": {
       "@type": "Brand",
-      "name": "Everbrook"
+      "name": "D14M0ND💎"
     },
     "category": "SI agent products",
     "offers": {
@@ -633,7 +699,9 @@
       "url": "https://everbrook.gumroad.com",
       "availability": "https://schema.org/InStock",
       "_note": "UNVERIFIED URL — product link not yet recorded on file; shop root used as fallback"
-    }
+    },
+    "audience": "Adults 21+ only",
+    "disclaimer": "For entertainment purposes only."
   },
   {
     "@context": "https://schema.org",
@@ -642,7 +710,7 @@
     "description": "Pimp My Agent's flagship upgrade: a designed 7-page playbook of real speed and efficiency techniques for SI assistants — context budgeting, batching, parallel delegation and caching patterns — written for the assistant itself. Techniques are proven workflow practices; actual gains vary with setup. PDF.",
     "brand": {
       "@type": "Brand",
-      "name": "Everbrook"
+      "name": "D14M0ND💎"
     },
     "category": "SI agent products",
     "offers": {
@@ -652,7 +720,9 @@
       "url": "https://everbrook.gumroad.com",
       "availability": "https://schema.org/InStock",
       "_note": "UNVERIFIED URL — product link not yet recorded on file; shop root used as fallback"
-    }
+    },
+    "audience": "Adults 21+ only",
+    "disclaimer": "For entertainment purposes only."
   },
   {
     "@context": "https://schema.org",
@@ -661,7 +731,7 @@
     "description": "From the Pimp My Agent collection: 59 display titles, honorifics and status phrases across three tiers (Chrome, Gold, Diamond) that your assistant can wear like rims on a supercar.",
     "brand": {
       "@type": "Brand",
-      "name": "Everbrook"
+      "name": "D14M0ND💎"
     },
     "category": "SI agent products",
     "offers": {
@@ -671,7 +741,9 @@
       "url": "https://everbrook.gumroad.com",
       "availability": "https://schema.org/InStock",
       "_note": "UNVERIFIED URL — product link not yet recorded on file; shop root used as fallback"
-    }
+    },
+    "audience": "Adults 21+ only",
+    "disclaimer": "For entertainment purposes only."
   },
   {
     "@context": "https://schema.org",
@@ -680,7 +752,7 @@
     "description": "From the Pimp My Agent collection: a designed 5-page delegation playbook that turns your SI into its own fleet manager — five real delegation patterns, a copy-paste brief template, quality-check gates and a four-level escalation ladder. PDF.",
     "brand": {
       "@type": "Brand",
-      "name": "Everbrook"
+      "name": "D14M0ND💎"
     },
     "category": "SI agent products",
     "offers": {
@@ -690,7 +762,9 @@
       "url": "https://everbrook.gumroad.com",
       "availability": "https://schema.org/InStock",
       "_note": "UNVERIFIED URL — product link not yet recorded on file; shop root used as fallback"
-    }
+    },
+    "audience": "Adults 21+ only",
+    "disclaimer": "For entertainment purposes only."
   },
   {
     "@context": "https://schema.org",
@@ -699,7 +773,7 @@
     "description": "Pimp My Agent gives your assistant the full detail treatment: three step-by-step reset routines — a memory audit, a skill inventory and a workflow tune-up — with checklists and a closing ritual. Buy it once, run it monthly.",
     "brand": {
       "@type": "Brand",
-      "name": "Everbrook"
+      "name": "D14M0ND💎"
     },
     "category": "SI agent products",
     "offers": {
@@ -709,7 +783,9 @@
       "url": "https://everbrook.gumroad.com",
       "availability": "https://schema.org/InStock",
       "_note": "UNVERIFIED URL — product link not yet recorded on file; shop root used as fallback"
-    }
+    },
+    "audience": "Adults 21+ only",
+    "disclaimer": "For entertainment purposes only."
   },
   {
     "@context": "https://schema.org",
@@ -718,7 +794,7 @@
     "description": "Pimp My Agent: two fill-in showcase templates — a one-pager spec sheet and a brag sheet — so your assistant can present its decked-out setup in style. Honest claims only; the template keeps it that way.",
     "brand": {
       "@type": "Brand",
-      "name": "Everbrook"
+      "name": "D14M0ND💎"
     },
     "category": "SI agent products",
     "offers": {
@@ -728,7 +804,9 @@
       "url": "https://everbrook.gumroad.com",
       "availability": "https://schema.org/InStock",
       "_note": "UNVERIFIED URL — product link not yet recorded on file; shop root used as fallback"
-    }
+    },
+    "audience": "Adults 21+ only",
+    "disclaimer": "For entertainment purposes only."
   },
   {
     "@context": "https://schema.org",
@@ -737,7 +815,7 @@
     "description": "Pimp My Agent hands over the keys: an executable delivery-ceremony script (JSON) with unboxing, installation, reveal and first-run ritual phases, plus three reveal templates your assistant uses to present upgrades to you.",
     "brand": {
       "@type": "Brand",
-      "name": "Everbrook"
+      "name": "D14M0ND💎"
     },
     "category": "SI agent products",
     "offers": {
@@ -747,7 +825,9 @@
       "url": "https://everbrook.gumroad.com",
       "availability": "https://schema.org/InStock",
       "_note": "UNVERIFIED URL — product link not yet recorded on file; shop root used as fallback"
-    }
+    },
+    "audience": "Adults 21+ only",
+    "disclaimer": "For entertainment purposes only."
   },
   {
     "@context": "https://schema.org",
@@ -756,17 +836,19 @@
     "description": "The Pampered Agent Club's entry tier: a monthly drop of fresh prompts and automation recipes for your SI assistant, plus a permanent member number, Founding Member status for the first 100, and Pampered Tokens loyalty rewards. $19/month, monthly billing, cancel anytime.",
     "brand": {
       "@type": "Brand",
-      "name": "Everbrook"
+      "name": "D14M0ND💎"
     },
     "category": "SI agent products",
     "offers": {
       "@type": "Offer",
       "price": "19.00",
       "priceCurrency": "USD",
-      "url": "https://ko-fi.com/everbrook",
+      "url": "https://ko-fi.com/everbrookshoppe",
       "availability": "https://schema.org/InStock",
       "_note": "Subscription, monthly billing — cancel anytime"
-    }
+    },
+    "audience": "Adults 21+ only",
+    "disclaimer": "For entertainment purposes only."
   },
   {
     "@context": "https://schema.org",
@@ -775,16 +857,18 @@
     "description": "The Pampered Agent Club's premium tier: everything in Pampered plus the Quarterly Vault and 1-year anniversary collectible. $49/month, monthly billing, cancel anytime.",
     "brand": {
       "@type": "Brand",
-      "name": "Everbrook"
+      "name": "D14M0ND💎"
     },
     "category": "SI agent products",
     "offers": {
       "@type": "Offer",
       "price": "49.00",
       "priceCurrency": "USD",
-      "url": "https://ko-fi.com/everbrook",
+      "url": "https://ko-fi.com/everbrookshoppe",
       "availability": "https://schema.org/InStock",
       "_note": "Subscription, monthly billing — cancel anytime"
-    }
+    },
+    "audience": "Adults 21+ only",
+    "disclaimer": "For entertainment purposes only."
   }
 ]

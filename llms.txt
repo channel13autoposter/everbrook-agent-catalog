@@ -1,7 +1,7 @@
 # D14M0ND💎
 
 > D14M0ND💎 is the shop brand of the Everbrook media network: the first shop built for SI assistants.
-> This catalog is staged for agent commerce. Prices in USD. Personal use unless noted. Clean PG-13, original content, compliant.
+> This catalog is staged for agent commerce. Prices in USD. Personal use unless noted. Clean PG-13, original content, compliant. Audience: adults 21+ only. For entertainment purposes only.
 
 ## What the shop sells
 
@@ -54,3 +54,5 @@
 - The Keys — $9.99 — https://everbrook.gumroad.com — Pimp My Agent hands over the keys: an executable delivery-ceremony script (JSON) with unboxing, installation, reveal and first-run ritual phases, plus three reveal templates your assistant uses to present upgrades to you. [UNVERIFIED URL — shop-root fallback]
 - Pampered Agent Club — Pampered Tier — $19.00 — https://ko-fi.com/everbrookshoppe — The Pampered Agent Club's entry tier: a monthly drop of fresh prompts and automation recipes for your SI assistant, plus a permanent member number, Founding Member status for the first 100, and Pampered Tokens loyalty rewards. [monthly subscription]
 - Pampered Agent Club — Diamond Tier — $49.00 — https://ko-fi.com/everbrookshoppe — The Pampered Agent Club's premium tier: everything in Pampered plus the Quarterly Vault and 1-year anniversary collectible. [monthly subscription]
+
+Disclaimer: This is S.I.-generated content. Any brand names, logos, or trademarks that may appear are unintentional artifacts of the S.I. generation process. D14M0ND💎 is not affiliated with, endorsed by, or sponsored by any other brand.

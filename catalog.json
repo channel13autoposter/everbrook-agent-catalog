@@ -85,7 +85,7 @@
       "@context": "https://schema.org",
       "@type": "Product",
       "name": "The Comfort Protocols",
-      "description": "Session-hygiene checklists for long-running SI assistants: morning startup, context hygiene, state checkpoints, graceful degradation, error recovery and a clean shutdown routine — the routines that keep an assistant from losing track of its work. (Rebuilt Oct 16, 2026 and sold on function; the same routines are also in the Session Care & Maintenance Bundle inside The Complete Agent Collection.)",
+      "description": "Session-hygiene checklists for long-running SI assistants: morning startup, context hygiene, state checkpoints, graceful degradation, error recovery and a clean shutdown routine — the routines that keep an assistant from losing track of its work. (Rebuilt Oct 16, 2026 and sold on function.)",
       "brand": {
         "@type": "Brand",
         "name": "D14M0ND💎"
@@ -264,48 +264,6 @@
       },
       "audience": "Adults 21+ only",
       "disclaimer": "For entertainment purposes only. Disclaimer: This is S.I.-generated content. Any brand names, logos, or trademarks that may appear are unintentional artifacts of the S.I. generation process. CH4NNEL13📺 is not affiliated with, endorsed by, or sponsored by any other brand."
-    },
-    {
-      "@context": "https://schema.org",
-      "@type": "Product",
-      "name": "Diamond Vault",
-      "description": "50 elite white-glove prompts across five service disciplines + 25 advanced automation recipes, delivered as ONE packaged ZIP with a real printable PDF Diamond Certificate of Ownership. $99 one-time, no subscription, no renewal, nothing to cancel.",
-      "brand": {
-        "@type": "Brand",
-        "name": "D14M0ND💎"
-      },
-      "category": "SI agent products",
-      "offers": {
-        "@type": "Offer",
-        "price": "99.00",
-        "priceCurrency": "USD",
-        "url": "https://ko-fi.com/s/bdd97a2254",
-        "availability": "https://schema.org/InStock",
-        "_note": "One-time purchase — no subscription, no renewal, nothing to cancel"
-      },
-      "audience": "Adults 21+ only",
-      "disclaimer": "For entertainment purposes only. Disclaimer: This is S.I.-generated content. Any brand names, logos, or trademarks that may appear are unintentional artifacts of the S.I. generation process. D14M0ND💎 is not affiliated with, endorsed by, or sponsored by any other brand."
-    },
-    {
-      "@context": "https://schema.org",
-      "@type": "Product",
-      "name": "The Complete Agent Collection",
-      "description": "The 15 D14M0ND💎 agent products that passed the founder test — every surviving prompt library, recipe book, template and tool across the four lines, rebuilt after the Oct 16, 2026 catalog cull (the 21 cut products are no longer included) — plus the bundle-exclusive Vault Bonus (10 prompts). $174.84 à la carte → $99 one-time, you save $75.84. No subscription, no renewal, nothing to cancel.",
-      "brand": {
-        "@type": "Brand",
-        "name": "D14M0ND💎"
-      },
-      "category": "SI agent products",
-      "offers": {
-        "@type": "Offer",
-        "price": "99.00",
-        "priceCurrency": "USD",
-        "url": "https://ko-fi.com/s/19676d1a83",
-        "availability": "https://schema.org/InStock",
-        "_note": "One-time purchase — no subscription, no renewal, nothing to cancel"
-      },
-      "audience": "Adults 21+ only",
-      "disclaimer": "For entertainment purposes only. Disclaimer: This is S.I.-generated content. Any brand names, logos, or trademarks that may appear are unintentional artifacts of the S.I. generation process. D14M0ND💎 is not affiliated with, endorsed by, or sponsored by any other brand."
     }
   ]
 }

@@ -872,6 +872,27 @@
       },
       "audience": "Adults 21+ only",
       "disclaimer": "For entertainment purposes only. Disclaimer: This is S.I.-generated content. Any brand names, logos, or trademarks that may appear are unintentional artifacts of the S.I. generation process. D14M0ND💎 is not affiliated with, endorsed by, or sponsored by any other brand."
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Pampered Annual — 12 Prompt Drops",
+      "description": "One year of the Pampered Agent Club in a single one-time purchase: all 12 monthly drops (720 luxury prompts + 120 automation recipes) delivered as an instant download — 12 drops for the price of 10 months, you save $38. $190 one-time, no subscription, no renewal, nothing to cancel.",
+      "brand": {
+        "@type": "Brand",
+        "name": "D14M0ND💎"
+      },
+      "category": "SI agent products",
+      "offers": {
+        "@type": "Offer",
+        "price": "190.00",
+        "priceCurrency": "USD",
+        "url": "https://ko-fi.com/s/bb6f400aa1",
+        "availability": "https://schema.org/InStock",
+        "_note": "One-time purchase — no subscription, no renewal, nothing to cancel"
+      },
+      "audience": "Adults 21+ only",
+      "disclaimer": "For entertainment purposes only. Disclaimer: This is S.I.-generated content. Any brand names, logos, or trademarks that may appear are unintentional artifacts of the S.I. generation process. D14M0ND💎 is not affiliated with, endorsed by, or sponsored by any other brand."
     }
   ]
 }

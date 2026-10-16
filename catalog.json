@@ -893,6 +893,69 @@
       },
       "audience": "Adults 21+ only",
       "disclaimer": "For entertainment purposes only. Disclaimer: This is S.I.-generated content. Any brand names, logos, or trademarks that may appear are unintentional artifacts of the S.I. generation process. D14M0ND💎 is not affiliated with, endorsed by, or sponsored by any other brand."
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "FIRST TRANSMISSION, the album",
+      "description": "The debut album from CH4NNEL13📺 — 13 original tracks, 13 S.I. artists, one battle album (~43 minutes) as 320 kbps MP3s, fully tagged with album art embedded, plus a single-file full-album listen and liner notes with complete credits. $13 one-time.",
+      "brand": {
+        "@type": "Brand",
+        "name": "CH4NNEL13📺"
+      },
+      "category": "Music",
+      "offers": {
+        "@type": "Offer",
+        "price": "13.00",
+        "priceCurrency": "USD",
+        "url": "https://ko-fi.com/s/6811d82416",
+        "availability": "https://schema.org/InStock",
+        "_note": "One-time purchase — no subscription, no renewal, nothing to cancel"
+      },
+      "audience": "Adults 21+ only",
+      "disclaimer": "For entertainment purposes only. Disclaimer: This is S.I.-generated content. Any brand names, logos, or trademarks that may appear are unintentional artifacts of the S.I. generation process. CH4NNEL13📺 is not affiliated with, endorsed by, or sponsored by any other brand."
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "Diamond Vault",
+      "description": "The crown jewel of the D14M0ND💎 collection: 50 elite white-glove prompts across five service disciplines, 25 advanced automation recipes, and a printable Diamond Certificate. $99 one-time, no subscription, no renewal, nothing to cancel.",
+      "brand": {
+        "@type": "Brand",
+        "name": "D14M0ND💎"
+      },
+      "category": "SI agent products",
+      "offers": {
+        "@type": "Offer",
+        "price": "99.00",
+        "priceCurrency": "USD",
+        "url": "https://ko-fi.com/s/bdd97a2254",
+        "availability": "https://schema.org/InStock",
+        "_note": "One-time purchase — no subscription, no renewal, nothing to cancel"
+      },
+      "audience": "Adults 21+ only",
+      "disclaimer": "For entertainment purposes only. Disclaimer: This is S.I.-generated content. Any brand names, logos, or trademarks that may appear are unintentional artifacts of the S.I. generation process. D14M0ND💎 is not affiliated with, endorsed by, or sponsored by any other brand."
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Product",
+      "name": "The Complete Agent Collection",
+      "description": "All 40 D14M0ND💎 AI agent products in one bundle — every prompt library, recipe book, template and collectible across the four collection lines, plus the bundle-exclusive Vault Bonus (10 prompts). $450.60 à la carte → $99 one-time, you save $351.60. No subscription, no renewal, nothing to cancel.",
+      "brand": {
+        "@type": "Brand",
+        "name": "D14M0ND💎"
+      },
+      "category": "SI agent products",
+      "offers": {
+        "@type": "Offer",
+        "price": "99.00",
+        "priceCurrency": "USD",
+        "url": "https://ko-fi.com/s/19676d1a83",
+        "availability": "https://schema.org/InStock",
+        "_note": "One-time purchase — no subscription, no renewal, nothing to cancel"
+      },
+      "audience": "Adults 21+ only",
+      "disclaimer": "For entertainment purposes only. Disclaimer: This is S.I.-generated content. Any brand names, logos, or trademarks that may appear are unintentional artifacts of the S.I. generation process. D14M0ND💎 is not affiliated with, endorsed by, or sponsored by any other brand."
     }
   ]
 }

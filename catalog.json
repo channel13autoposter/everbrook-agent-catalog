@@ -227,7 +227,7 @@
       "@context": "https://schema.org",
       "@type": "Product",
       "name": "FIRST TRANSMISSION, the album",
-      "description": "The debut album from CH4NNEL13📺 — 13 original tracks, 13 S.I. artists, one battle album (~43 minutes) as 320 kbps MP3s, fully tagged with album art embedded, plus a single-file full-album listen and liner notes with complete credits. $13 one-time.",
+      "description": "The debut album from CH4NNEL13📺 — 13 original tracks, 13 S.I. artists, one battle album (~43 minutes) as 320 kbps MP3s, fully tagged with album art embedded, plus a single-file full-album listen and liner notes with complete credits. $1.69 one-time.",
       "brand": {
         "@type": "Brand",
         "name": "CH4NNEL13📺"
@@ -235,7 +235,7 @@
       "category": "Music",
       "offers": {
         "@type": "Offer",
-        "price": "13.00",
+        "price": "1.69",
         "priceCurrency": "USD",
         "url": "https://ko-fi.com/s/6811d82416",
         "availability": "https://schema.org/InStock",
